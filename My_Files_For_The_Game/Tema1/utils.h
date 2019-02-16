@@ -58,7 +58,7 @@ struct info_brick {
 	bool destroyed;		// Flag pentru a stii daca caramida a fost lovita 
 	bool disapear;		// Flag pentru a stii cand caramida a disparut de pe suprafata
 	int ind_bonus;		// Indicele bonusului asociat caramizii
-	int lifes;			// Numarul de vieti al caramizii (duritatea caramizii)
+	int lifes;		// Numarul de vieti al caramizii (duritatea caramizii)
 };
 
 // Structura in care se vor retine informatiile pentru fiecare bonus
